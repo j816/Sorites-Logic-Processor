@@ -123,7 +123,7 @@ If the `LogicProcessor` encounters an error (e.g., a premise that it cannot pars
 
 15. **Sorite 15**: All strategists and tacticians are planners. Some planners are visionaries. None of the visionaries are short-sighted. All short-sighted people and near-sighted individuals are limited. Some limited thinkers are constrained. None of the constrained are free.
 
-### Sorites Test Set 2
+#### Sorites Test Set 2
 
 All mathematicians and physicists are scientists.
 Some scientists are philosophers.
