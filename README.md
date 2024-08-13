@@ -126,52 +126,102 @@ If the `LogicProcessor` encounters an error (e.g., a premise that it cannot pars
 #### Sorites Test Set 2
 
 All mathematicians and physicists are scientists.
+
 Some scientists are philosophers.
+
 None of the philosophers are artists.
+
 All artists and musicians are creative individuals.
+
 Some creative individuals are entrepreneurs.
+
 None of the entrepreneurs are followers.
+
 Some followers are leaders.
+
 All leaders are influential.
+
 None of the influential are unnoticed.
+
 Some unnoticed are ordinary.
+
 All ordinary are common.
+
 None of the common are unique.
+
 Some unique are rare.
+
 All rare things are valuable.
+
 None of the valuable things are discarded.
+
 Some discarded things are broken.
+
 All broken things are useless.
+
 None of the useless are desired.
+
 Some desired things are unattainable.
+
 All unattainable things are dreams.
+
 None of the dreams are realities.
+
 Some realities are harsh.
+
 All harsh truths are painful.
+
 None of the painful experiences are forgotten.
+
 Some forgotten things are memories.
+
 All memories are cherished.
+
 None of the cherished things are insignificant.
+
 Some insignificant things are overlooked.
+
 All overlooked details are critical.
+
 None of the critical details are trivial.
+
 Some trivial matters are ignored.
+
 All ignored warnings are dangerous.
+
 None of the dangerous paths are safe.
+
 Some safe paths are secure.
+
 All secure locations are fortified.
+
 None of the fortified places are vulnerable.
+
 Some vulnerable spots are weak.
+
 All weak points are exploited.
+
 None of the exploited resources are renewable.
+
 Some renewable resources are sustainable.
+
 All sustainable practices are beneficial.
+
 None of the beneficial actions are harmful.
+
 Some harmful behaviors are addictive.
+
 All addictive substances are controlled.
+
 None of the controlled substances are legal.
+
 Some legal products are regulated.
+
 All regulated industries are monitored.
+
 None of the monitored activities are secret.
+
 Some secret operations are confidential.
+
 All confidential information is restricted.
+
